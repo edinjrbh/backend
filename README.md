@@ -1,8 +1,8 @@
 # Projeto Cucumber + httParty
-###Requisitos
+### Requisitos
 Ruby previamente instalado
 
-###Passos:
+### Passos:
 * Baixar o repositório do github.
 * Na pasta do projeto executar o comando 'bundle install'.
 * Serão instaladas as gems Cucumber e httParty.
