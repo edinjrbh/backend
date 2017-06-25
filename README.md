@@ -1,4 +1,4 @@
-# Projeto Cucumber + httParty
+# Projeto Backend Cucumber + httParty
 ### Requisitos
 Ruby previamente instalado
 
